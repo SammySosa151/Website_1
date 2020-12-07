@@ -1,8 +1,17 @@
 @charset "utf-8";
 /* CSS Document */
-.poggers{
+.poggers {
 	text-align: center;
 	font-family: fieldwork, sans-serif;
+	font-size: 100px;
+	background: linear-gradient(53deg,
+      #ccfffc,
+      #ffcccf
+	);
+	width: 600px;
+	margin: auto;
+	padding-top: 10px;
+	border-radius: 25px;  
 }
 
 p {
