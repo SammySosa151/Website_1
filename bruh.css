@@ -14,6 +14,21 @@
 	border-radius: 25px;  
 }
 
-p {
+body {
+  background-image: url("background.png");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+.maintext {
+	color: black; 
 	text-align: center;	
+	font-family: fieldwork, sans-serif;
+	font-size: 40px;
+	background: #D4E1E4;
+	width: 1500px;
+	margin: auto;
+	border-radius: 25px;
 }
